@@ -11,5 +11,3 @@
 - Apollo
 - Express
 - Node.js
-- jsonwebtoken
-- bcrypt
