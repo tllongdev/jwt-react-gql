@@ -9,3 +9,7 @@
 - PostgreSQL
 - React
 - Apollo
+- Express
+- Node.js
+- jsonwebtoken
+- bcrypt
